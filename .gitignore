@@ -1,0 +1,11 @@
+.idea/
+venv/
+.vscode/
+__pycache__/
+cred.*
+!cred.py
+.DS_Store
+.env
+*.pyc
+.proj.yml
+.proj.yaml
